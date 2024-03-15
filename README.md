@@ -1,2 +1,2 @@
-# nether-host
-The unofficial Nether Host repository, with some basic, open-source things.
+# Nether Host
+Welcome to the Nether Host (unofficial) repository. Here is where some open-source codes will be held.
